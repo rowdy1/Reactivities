@@ -15,7 +15,6 @@ namespace API.Controllers
         public ValuesController(DataContext context)
         {
             this._context = context;
-
         }
 
         // GET api/values
